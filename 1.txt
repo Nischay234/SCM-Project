@@ -1,7 +1,0 @@
- i am learning javascript.
- a
- b
- c
- d
- e
- f
